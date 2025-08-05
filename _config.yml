@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Portland, OR" # City, State
-  school           : "Augusta University"
+  work             : "Augusta University"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "sysfail.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

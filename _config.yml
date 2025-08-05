@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Portland, OR" # City, State
-  school         : "Augusta University"
+  school           : "Augusta University"
   uri              : # URL
   email            : "none@example.org" 
 

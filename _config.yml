@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Cyber Operations, AI, Information Warfare, and Biodefense"
   location         : "Portland, OR" # City, State
-  work             : "Augusta University"
+  work             : #"Augusta University"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 

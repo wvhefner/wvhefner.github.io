@@ -25,14 +25,14 @@ author:
   avatar           : "profile.png"
   name             : "Jeremy Hefner"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Researcher in Cyber Operations, AI, Information Warfare, and Biodefense"
   location         : "Portland, OR" # City, State
   work             : "Augusta University"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : "Augusta University" # URL - Update with the correct link to your profile
+  academia         : # Agusta University" # URL - Update with the correct link to your profile
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL

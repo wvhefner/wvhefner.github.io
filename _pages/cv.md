@@ -17,8 +17,8 @@ Education
 
 Certifications
 ======
-ISC2 CISSP
-GIAC GCTI
-GIAC GCIA
-Comptia Security+
-Comptia Network+
+* ISC2 CISSP
+* GIAC GCTI
+* GIAC GCIA
+* Comptia Security+
+* Comptia Network+

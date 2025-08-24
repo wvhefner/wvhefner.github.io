@@ -286,7 +286,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _unix
+  - scope:
+      path: ""
+      type: unix
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:

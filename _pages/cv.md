@@ -15,3 +15,10 @@ Education
 * M.S. in Information Technology, Illinois Institute of Technology
 * B.S. in Information Technology, Western Governors University
 
+Certifications
+======
+ISC2 CISSP
+GIAC GCTI
+GIAC GCIA
+Comptia Security+
+Comptia Network+

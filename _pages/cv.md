@@ -17,8 +17,8 @@ Education
 
 Certifications
 ======
-* ISC2 CISSP
-* GIAC GCTI
-* GIAC GCIA
+* ISC2 Certified Information Systems Security Professional (CISSP)
+* GIAC Cyber Threat Intelligence (GCTI)
+* GIAC Certified Intrusion Analyst Certification (GCIA)
 * Comptia Security+
 * Comptia Network+

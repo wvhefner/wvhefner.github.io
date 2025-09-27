@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-With over 25 years of experience in cybersecurity, intelligence, and human-centric security, I specialize in bridging technical execution and strategic vision. My work helps organizations stay ahead of evolving digital threats in today’s complex and dynamic environment.
+Mr. Hefner is a seasoned security professional operating at the intersection of cybersecurity, intelligence, and human-centric security. With a strong blend of technical expertise and strategic foresight, he helps organizations stay ahead of evolving cyber threats. 
 
-My research interests lie at the intersection of cyber operations, artificial intelligence, cognitive and information warfare, and biodefense.
+My research interests lie at the intersection of cyber operations, artificial intelligence, cognitive and information warfare, and cyberbiosecurity.
